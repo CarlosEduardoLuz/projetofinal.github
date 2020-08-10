@@ -1,0 +1,62 @@
+html, body{
+    margin: 0%;}
+
+#imagem_fundo{
+    background: url(campo.jpg) 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+    text-align: center;
+    background-size: 100%;
+    background-size: cover;
+}
+#titulo{
+    color: white;
+    padding-top: 20%;
+}
+#subtitulo{
+    color: white;
+    padding-right: 30%;
+    padding-left: 30%;
+}
+#botao{
+    padding-top: 300px;
+}
+.icone{
+    width: 50px;
+}
+#objetivos{
+    padding: 20px;
+}
+#tipos{
+    padding: 20px;
+}
+.coluna{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+}
+selection{
+    padding: 20px;
+}
+.justificado{
+    text-align: justify;
+}
+.colunaquatro{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 15%;
+}
+.centralizado{
+    text-align: center;
+}
+.colunatres{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 20%;
+}
+.top{
+    padding-top: 50px;
+}
